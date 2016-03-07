@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.device.screenHeight
+]]></content>
+    <tabTrigger>BNJS.device.screenHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>设备屏幕高</description>
+</snippet>

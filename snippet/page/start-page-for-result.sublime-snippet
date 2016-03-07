@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.startPageforResult({
+    url: ${1:url},
+    onSuccess: function (resp) {
+        ${2:}
+    },
+    onFail: function (resp) {
+        ${3:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.page.startPageforResult</tabTrigger>
+    <scope>source.js</scope>
+    <description>页面双向通信-注册接收消息入口</description>
+</snippet>

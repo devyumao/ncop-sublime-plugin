@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.device.screenWidth
+]]></content>
+    <tabTrigger>BNJS.device.screenWidth</tabTrigger>
+    <scope>source.js</scope>
+    <description>设备屏幕宽</description>
+</snippet>

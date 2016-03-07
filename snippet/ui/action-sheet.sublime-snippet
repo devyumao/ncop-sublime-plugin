@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.actionSheet(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.actionSheet</tabTrigger>
+    <scope>source.js</scope>
+    <description>显示屏幕下方可点击的弹框</description>
+</snippet>

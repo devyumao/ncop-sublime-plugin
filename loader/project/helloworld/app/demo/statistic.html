@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head ms-controller="head">
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" >
+        <meta name="apple-mobile-web-app-capable" content="yes" >
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="../../public/styles/reset.css?1">
+        <link rel="stylesheet" type="text/css" href="base.css?0">
+    </head>
+    <body>
+        <h2>BNJS.statistic</h2>
+        <ul class="bnjs-list pink" id="j-statistic-list">
+            <li><button data-target="addLog">BNJS.statistic.addLog<span>[1.0]</span></button></li>
+            <li>ctag统计参数：</li>
+            <li><input type="text" id="j-ctag-s" placeholder="s 来源,必填 仅限字母和数字，2-5个字符, wap:外部 / tuan：团购（首页）/ my：我的 / nearby：附近 / dbbox：下拉列表" value=""/>
+            </li>
+            <li><input type="text" id="j-ctag-k" placeholder="k(类型关键字,必填 类型+出现顺序，如'ad_1'，仅限字母和数字，2-8个字符)" value=""/>
+            </li>
+            <li><input type="text" id="j-ctag-v" placeholder="v(埋点值,必填 如'22_1'，仅限字母和数字，0-35个字符)" value=""/>
+            </li>
+            <li><input type="text" id="j-ctag-x" placeholder="x(扩展信息,可选 如'sid'。仅限字母和数字)" value=""/>
+            </li>
+            <li><button data-target="addCtag">BNJS.statistic.addCtag<span>[1.0]</span></button></li>
+            <li><button data-target="addMTJ">BNJS.statistic.addMTJ<span>[1.0]</span></button></li>
+        </ul>
+        <script type="text/javascript" src="../../public/dep/zepto.js"></script>
+        <script type="text/javascript" src="statistic.js?37"></script>
+    </body>
+</html>

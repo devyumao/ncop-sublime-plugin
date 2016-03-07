@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.removeBtnAll();
+]]></content>
+    <tabTrigger>BNJS.ui.title.removeBtnAll</tabTrigger>
+    <scope>source.js</scope>
+    <description>删除右上角所有按钮</description>
+</snippet>

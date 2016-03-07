@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.account.isLogin
+]]></content>
+    <tabTrigger>BNJS.account.isLogin</tabTrigger>
+    <scope>source.js</scope>
+    <description>是否登陆</description>
+</snippet>

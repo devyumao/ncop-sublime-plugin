@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.localStorage.setItem(${1:key}, ${2:value});
+]]></content>
+    <tabTrigger>BNJS.localStorage.setItem</tabTrigger>
+    <scope>source.js</scope>
+    <description>存储数据</description>
+</snippet>

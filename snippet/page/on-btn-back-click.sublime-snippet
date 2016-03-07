@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.onBtnBackClick({
+    callback: function () {
+        ${1:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.page.onBtnBackClick</tabTrigger>
+    <scope>source.js</scope>
+    <description>绑定返回按钮点击事件</description>
+</snippet>

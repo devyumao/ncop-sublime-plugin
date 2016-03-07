@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.startPay({
+    customerId: ${1:customerId},
+    deviceType: ${2:deviceType},
+    notifyUrl: ${3:notifyUrl},
+    passuid: ${4:passuid},
+    orderId: ${5:orderId},
+    service: ${6:service},
+    sign: ${7:sign},
+    signType: ${8:signType},
+    onSuccess: function () {
+        ${9:}
+    },
+    onCancel: function () {
+        ${10:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.page.startPay</tabTrigger>
+    <scope>source.js</scope>
+    <description>打开支付页面</description>
+</snippet>

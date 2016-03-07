@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head ms-controller="head">
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" >
+        <meta name="apple-mobile-web-app-capable" content="yes" >
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="../../public/styles/reset.css?1">
+        <link rel="stylesheet" type="text/css" href="base.css?0">
+    </head>
+    <body>
+        <h2>BNJS.account</h2>
+        <ul class="bnjs-list pink" id="j-account-list">
+            <li><button data-target="login">BNJS.account.login<span>[1.0]</span></button></li>
+            <li><button data-target="getMobile">BNJS.account.getMobile<span>[1.0]</span></button></li>
+            <li><button data-target="getSecretAccount">BNJS.account.getSecretAccount<span>[1.3]</span></button></li>
+            <li><input type="text" id="j-get-tpFlag" placeholder="getCommonSecretAccount传参：第三方标识" value=""/></li>
+            <li><input type="text" id="j-get-requestData" placeholder="getCommonSecretAccount传参：用户请求的数据" value=""/></li>
+            <li><button data-target="getCommonSecretAccount">BNJS.account.getCommonSecretAccount<span>[1.8]</span></button></li>
+        </ul>
+        <h3>属性：</h3>
+        <ul class="bnjs-info-list" id="j-account-info">
+        </ul>
+        <script type="text/javascript" src="../../public/dep/zepto.js"></script>
+        <script type="text/javascript" src="account.js?37"></script>
+    </body>
+</html>

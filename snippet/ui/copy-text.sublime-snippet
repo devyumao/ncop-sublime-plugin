@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.copyText(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.copyText</tabTrigger>
+    <scope>source.js</scope>
+    <description>复制文本到剪切板</description>
+</snippet>

@@ -1,0 +1,20 @@
+[
+    {
+        "caption": "-"
+    },
+    {
+        "caption": "搜索组件化文档...",
+        "command": "ncop_selection_doc"
+    },
+    {
+        "caption": "浏览器预览...",
+        "command": "ncop_preview_page_by_browser"
+    },
+    {
+        "caption": "二维码预览...",
+        "command": "ncop_preview_page_by_qrcode"
+    },
+    {
+        "caption": "-"
+    }
+]

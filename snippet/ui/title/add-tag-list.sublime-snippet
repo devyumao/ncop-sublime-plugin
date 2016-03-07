@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.addTagList(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.title.addTagList</tabTrigger>
+    <scope>source.js</scope>
+    <description>导航条添加 tag 标签列表</description>
+</snippet>

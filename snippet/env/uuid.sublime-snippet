@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.uuid	
+]]></content>
+    <tabTrigger>BNJS.env.uuid</tabTrigger>
+    <scope>source.js</scope>
+    <description>IOS 设备唯一标识（仅 IOS 支持）</description>
+</snippet>

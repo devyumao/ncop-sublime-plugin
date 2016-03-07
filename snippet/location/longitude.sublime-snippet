@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.location.longitude
+]]></content>
+    <tabTrigger>BNJS.location.longitude</tabTrigger>
+    <scope>source.js</scope>
+    <description>定位经度信息</description>
+</snippet>

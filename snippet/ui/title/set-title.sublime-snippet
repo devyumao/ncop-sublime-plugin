@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.setTitle(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.title.setTitle</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置页面顶部 title 文案</description>
+</snippet>

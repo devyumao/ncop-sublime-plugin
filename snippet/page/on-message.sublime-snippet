@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.onMessage(${1:});
+]]></content>
+    <tabTrigger>BNJS.page.onMessage</tabTrigger>
+    <scope>source.js</scope>
+    <description>相邻页面通信-注册接收消息入口</description>
+</snippet>

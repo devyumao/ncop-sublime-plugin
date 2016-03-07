@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.appVersion	
+]]></content>
+    <tabTrigger>BNJS.env.appVersion</tabTrigger>
+    <scope>source.js</scope>
+    <description>APP 版本</description>
+</snippet>

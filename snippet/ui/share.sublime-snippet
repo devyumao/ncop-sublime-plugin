@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.share(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.share</tabTrigger>
+    <scope>source.js</scope>
+    <description>调用分享组件</description>
+</snippet>

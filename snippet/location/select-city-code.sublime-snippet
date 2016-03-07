@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.location.selectCityCode
+]]></content>
+    <tabTrigger>BNJS.location.selectCityCode</tabTrigger>
+    <scope>source.js</scope>
+    <description>当前选中城市 code</description>
+</snippet>

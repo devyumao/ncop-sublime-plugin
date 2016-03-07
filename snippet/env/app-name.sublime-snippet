@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.appName	
+]]></content>
+    <tabTrigger>BNJS.env.appName</tabTrigger>
+    <scope>source.js</scope>
+    <description>APP 名称</description>
+</snippet>

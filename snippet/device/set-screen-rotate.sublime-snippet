@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.device.setScreenRotate(${1:});
+]]></content>
+    <tabTrigger>BNJS.device.setScreenRotate</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置当前页播放视频支持横竖屏效果</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.dialog.hideLoading(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.dialog.hideLoading</tabTrigger>
+    <scope>source.js</scope>
+    <description>关闭加载中弹层</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.setClickableTitle(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.title.setClickableTitle</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置页面顶部可点击的 Title</description>
+</snippet>

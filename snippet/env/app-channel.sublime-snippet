@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.appChannel	
+]]></content>
+    <tabTrigger>BNJS.env.appChannel</tabTrigger>
+    <scope>source.js</scope>
+    <description>APP 渠道</description>
+</snippet>

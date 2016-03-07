@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.start(${1:url});
+]]></content>
+    <tabTrigger>BNJS.page.start</tabTrigger>
+    <scope>source.js</scope>
+    <description>支持当前页面打开和新窗口打开</description>
+</snippet>

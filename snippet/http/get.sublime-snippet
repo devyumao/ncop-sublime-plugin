@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+BNJS.http.get({
+    url: ${1:url},
+    onSuccess: function (res) {
+        ${2:}
+    },
+    onFail: function (res) {
+        ${3:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.http.get</tabTrigger>
+    <scope>source.js</scope>
+    <description>异步 GET 数据</description>
+</snippet>

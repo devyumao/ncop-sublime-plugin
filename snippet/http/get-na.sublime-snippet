@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.http.getNA(${1:options});
+]]></content>
+    <tabTrigger>BNJS.http.getNA</tabTrigger>
+    <scope>source.js</scope>
+    <description>从 NA 服务器 GET 数据</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.getData(function (res) {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.page.getData</tabTrigger>
+    <scope>source.js</scope>
+    <description>读取打开页面时，传递的数据</description>
+</snippet>

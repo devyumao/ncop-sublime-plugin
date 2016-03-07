@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.cuid
+]]></content>
+    <tabTrigger>BNJS.env.cuid</tabTrigger>
+    <scope>source.js</scope>
+    <description>设备唯一标识（百度 cuid ）</description>
+</snippet>

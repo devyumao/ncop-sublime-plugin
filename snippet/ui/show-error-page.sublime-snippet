@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.showErrorPage(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.showErrorPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>显示错误页面</description>
+</snippet>

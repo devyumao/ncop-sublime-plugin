@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.toast.show(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.toast.show</tabTrigger>
+    <scope>source.js</scope>
+    <description>显示弹层</description>
+</snippet>

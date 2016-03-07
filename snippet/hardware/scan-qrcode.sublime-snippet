@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.hardware.scanQRCode(function (res) {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.hardware.scanQRCode</tabTrigger>
+    <scope>source.js</scope>
+    <description>调用二维码扫描</description>
+</snippet>

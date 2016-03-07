@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.getAlbum({
+    onSuccess: function (res) {
+        ${1:}
+    },
+    onFail: function (res) {
+        ${2:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.page.getAlbum</tabTrigger>
+    <scope>source.js</scope>
+    <description>调用本地相册或本地拍照功能</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.statistic.addCtag(${1:});
+]]></content>
+    <tabTrigger>BNJS.statistic.addCtag</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置 Ctag 统计埋点信息，UI 日志</description>
+</snippet>

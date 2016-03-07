@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.closePullAction(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.closePullAction</tabTrigger>
+    <scope>source.js</scope>
+    <description>关闭下拉刷新操作</description>
+</snippet>

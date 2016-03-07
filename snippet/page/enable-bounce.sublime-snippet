@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.enableBounce(${1:});
+]]></content>
+    <tabTrigger>BNJS.page.enableBounce</tabTrigger>
+    <scope>source.js</scope>
+    <description>启用或禁用页面的 Bounce（仅针对 iOS ）</description>
+</snippet>

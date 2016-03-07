@@ -1,0 +1,57 @@
+{
+	"id": "jsb",
+	"version": "1.0.2", 
+	"pages": [{                 
+		"name": "index",      
+		"file": "/app/demo/list.html",  
+		"login": false
+	},{                 
+		"name": "http",      
+		"file": "/app/demo/http.html",  
+		"login": false
+	},{                 
+		"name": "account",      
+		"file": "/app/demo/account.html",  
+		"login": false
+	},{                 
+		"name": "device",      
+		"file": "/app/demo/device.html",  
+		"login": false
+	},{                 
+		"name": "deviceVideo",      
+		"file": "/app/demo/device_video.html",  
+		"login": false
+	},{                 
+		"name": "env",      
+		"file": "/app/demo/env.html",  
+		"login": false
+	},{                 
+		"name": "hardware",      
+		"file": "/app/demo/hardware.html",  
+		"login": false
+	},{                 
+		"name": "localStorage",      
+		"file": "/app/demo/localStorage.html",  
+		"login": false
+	},{                 
+		"name": "location",      
+		"file": "/app/demo/location.html",  
+		"login": false
+	},{                 
+		"name": "page",      
+		"file": "/app/demo/page.html",  
+		"login": false
+	},{                 
+		"name": "pagePostmessage",      
+		"file": "/app/demo/page_postmessage.html",  
+		"login": false
+	},{                 
+		"name": "statistic",      
+		"file": "/app/demo/statistic.html",  
+		"login": false
+	},{                 
+		"name": "ui",      
+		"file": "/app/demo/ui.html",  
+		"login": false
+	}]
+}

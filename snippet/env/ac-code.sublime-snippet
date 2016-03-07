@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.acCode(function (res) {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.env.acCode</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取反作弊信息</description>
+</snippet>

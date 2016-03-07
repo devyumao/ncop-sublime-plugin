@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.registerReceiver(${1:name}, function (res) {
+    ${2:}
+});
+]]></content>
+    <tabTrigger>BNJS.page.registerReceiver</tabTrigger>
+    <scope>source.js</scope>
+    <description>注册接收消息入口</description>
+</snippet>

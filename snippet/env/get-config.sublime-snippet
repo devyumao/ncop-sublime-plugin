@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.getConfig(function (data) {
+    ${1:}
+});	
+]]></content>
+    <tabTrigger>BNJS.env.getConfig</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取 Native App 的设置</description>
+</snippet>

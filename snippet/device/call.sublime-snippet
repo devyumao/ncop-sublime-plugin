@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.device.call(${1:});
+]]></content>
+    <tabTrigger>BNJS.device.call</tabTrigger>
+    <scope>source.js</scope>
+    <description>用户传入手机号，Native 调起拨打电话界面</description>
+</snippet>

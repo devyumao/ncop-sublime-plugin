@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.addT10NoticeButton(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.title.addT10NoticeButton</tabTrigger>
+    <scope>source.js</scope>
+    <description>T10 页面顶部右侧添加开抢提醒按钮</description>
+</snippet>

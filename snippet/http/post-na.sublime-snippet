@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.http.postNA(${1:options});
+]]></content>
+    <tabTrigger>BNJS.http.postNA</tabTrigger>
+    <scope>source.js</scope>
+    <description>从 NA 服务器 POST 数据</description>
+</snippet>

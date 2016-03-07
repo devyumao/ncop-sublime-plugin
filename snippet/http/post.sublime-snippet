@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+BNJS.http.post({
+    url: ${1:url},
+    onSuccess: function (res) {
+        ${2:}
+    },
+    onFail: function (res) {
+        ${3:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.http.post</tabTrigger>
+    <scope>source.js</scope>
+    <description>异步 POST 数据</description>
+</snippet>

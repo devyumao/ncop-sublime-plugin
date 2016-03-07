@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.onCityChange(function (json) {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.page.onCityChange</tabTrigger>
+    <scope>source.js</scope>
+    <description>监听城市切换消息</description>
+</snippet>

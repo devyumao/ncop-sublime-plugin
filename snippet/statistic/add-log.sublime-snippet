@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.statistic.addLog(${1:});
+]]></content>
+    <tabTrigger>BNJS.statistic.addLog</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置统计相关信息，离线日志</description>
+</snippet>

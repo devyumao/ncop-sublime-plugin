@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.hasBanner(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.hasBanner</tabTrigger>
+    <scope>source.js</scope>
+    <description>通知 native 是否有 banner</description>
+</snippet>

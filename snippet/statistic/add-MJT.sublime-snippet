@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.statistic.addMTJ(${1:});
+]]></content>
+    <tabTrigger>BNJS.statistic.addMTJ</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置 MTJ 统计信息</description>
+</snippet>

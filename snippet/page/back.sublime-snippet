@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.back();
+]]></content>
+    <tabTrigger>BNJS.page.back</tabTrigger>
+    <scope>source.js</scope>
+    <description>返回上一页</description>
+</snippet>

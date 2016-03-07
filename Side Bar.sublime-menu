@@ -1,0 +1,57 @@
+[
+    {
+        "caption": "-"
+    },
+    {
+        "caption": "新建组件项目...",
+        "command": "ncop_create_project",
+        "args": {
+            "dirs": []
+        }
+    },
+    {
+        "caption": "开启同步",
+        "command": "ncop_watch",
+        "args": {
+            "dirs": []
+        }
+    },
+    {
+        "caption": "停止同步",
+        "command": "ncop_stop_watching",
+        "args": {
+            "dirs": []
+        }
+    },
+    {
+        "caption": "生成配置文件...",
+        "command": "ncop_generate_config",
+        "args": {
+            "dirs": []
+        }
+    },
+    {
+        "caption": "线上调试",
+        "command": "ncop_debug_online",
+        "args": {
+            "dirs": []
+        }
+    },
+    {
+        "caption": "上传发布",
+        "command": "ncop_upload_package",
+        "args": {
+            "dirs": []
+        }
+    },
+    {
+        "caption": "删除组件项目",
+        "command": "ncop_delete_project",
+        "args": {
+            "dirs": []
+        }
+    },
+    {
+        "caption": "-"
+    }
+]

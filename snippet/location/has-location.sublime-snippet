@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.location.hasLocation
+]]></content>
+    <tabTrigger>BNJS.location.hasLocation</tabTrigger>
+    <scope>source.js</scope>
+    <description>是否有定位</description>
+</snippet>

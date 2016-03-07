@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+BNJS.account.getMobile({
+    onSuccess: function (res) {
+        ${1:}          
+    },
+    onFail: function (res) {
+        ${2:}
+    }         
+});
+]]></content>
+    <tabTrigger>BNJS.account.getMobile</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取用户手机号，带＊号加密</description>
+</snippet>

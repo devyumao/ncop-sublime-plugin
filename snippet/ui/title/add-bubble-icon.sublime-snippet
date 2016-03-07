@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.addBubbleIcon(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.title.addBubbleIcon</tabTrigger>
+    <scope>source.js</scope>
+    <description>页面顶部右侧添加可展示数字按钮</description>
+</snippet>

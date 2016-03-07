@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.hardware.getWifiAround(function (res) {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.hardware.getWifiAround</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取周边 WiFi 信息</description>
+</snippet>

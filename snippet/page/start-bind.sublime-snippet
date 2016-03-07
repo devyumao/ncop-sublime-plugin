@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.startBind({
+    onSuccess: function () {
+        ${1:}
+    },
+    onFail: function (res) {
+        ${2:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.page.startBind</tabTrigger>
+    <scope>source.js</scope>
+    <description>打开绑定手机号码的页面</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.leave(function () {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.page.leave</tabTrigger>
+    <scope>source.js</scope>
+    <description>监听用户离开页面</description>
+</snippet>

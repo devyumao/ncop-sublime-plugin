@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.device.platform
+]]></content>
+    <tabTrigger>BNJS.device.platform</tabTrigger>
+    <scope>source.js</scope>
+    <description>设备系统平台</description>
+</snippet>

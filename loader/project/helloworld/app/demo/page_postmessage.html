@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+    <head ms-controller="head">
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" >
+        <meta name="apple-mobile-web-app-capable" content="yes" >
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="../../public/styles/reset.css?1">
+        <link rel="stylesheet" type="text/css" href="base.css?0">
+    </head>
+    <body>
+        <h2 class="center">测试postMessage</h2>
+        <!-- <ul class="bnjs-list pink" id="j-page-list">
+            <li><button data-target="start">BNJS.page.start<span>[1.0] 1.5版本有扩展</span></button></li>
+        </ul> -->
+        
+        <script type="text/javascript" src="../../public/dep/zepto.js"></script>
+        <script type="text/javascript">
+            (function ($, window) {
+                var BNJSReady = function (readyCallback) {
+                    if(readyCallback && typeof readyCallback == 'function'){
+                        if(window.BNJS && typeof window.BNJS == 'object' && BNJS._isAllReady){
+                            readyCallback();                 
+                        }else{
+                            document.addEventListener('BNJSReady', function() {
+                                readyCallback();
+                            }, false);
+                        }
+                    }
+                };
+
+                BNJSReady(function(){
+                    BNJS.ui.hideLoadingPage();
+                    var postMessageFn = function () {
+                        alert('注册postMessage成功');
+                        BNJS.page.postMessage({
+                            test: '测试postMessage-传给page页面的信息'
+                        });
+                    }
+                    postMessageFn();
+                });
+            })($, window);
+        </script>
+    </body>
+</html>

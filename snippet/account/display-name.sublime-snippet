@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.account.displayName
+]]></content>
+    <tabTrigger>BNJS.account.displayName</tabTrigger>
+    <scope>source.js</scope>
+    <description>用户昵称</description>
+</snippet>

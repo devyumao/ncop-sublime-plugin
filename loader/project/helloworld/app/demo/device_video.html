@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>影院详情</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+		<meta name="format-detection" content="telephone=no">
+		<link rel="stylesheet" href="css/normalize.css" />
+		<link rel="stylesheet" href="css/index.css" />
+
+		<style>
+			html, body, iframe {
+				padding: 0; 
+				margin: 0; 
+				width: 100%; 
+				height: 100%;
+			}
+
+			.video-wrap{
+				width: 100%;
+				height: auto;
+				overflow: hidden;
+			}
+
+			.video-wrap video{
+				width: 100%;
+				height: auto;
+				overflow: hidden;
+			}
+		</style>
+	</head>
+
+	<body>
+		<iframe src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=61cfc9ec5b7bf44551a6b79e7d2c0bd2&tvId=421895100&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="100%"></iframe>
+
+		<script>
+			var BNJSReady = function (readyCallback) {
+			    if(readyCallback && typeof readyCallback == 'function'){
+			        if(window.BNJS && typeof window.BNJS == 'object' && BNJS._isAllReady){
+			            readyCallback();                 
+			        }else{
+			            document.addEventListener('BNJSReady', function() {
+			                readyCallback();
+			            }, false);
+			        }
+			    }
+			};    
+
+			BNJSReady(function(){
+
+				BNJS.ui.hideLoadingPage();
+
+				BNJS.page.getData(function(res){
+					if (res.hasOwnProperty('screenRotateStatus') && res.screenRotateStatus) {
+						BNJS.device.setScreenRotate(true);
+					}
+				});
+			});
+		</script>
+	</body>
+</html>

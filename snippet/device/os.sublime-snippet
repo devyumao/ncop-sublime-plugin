@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.device.os
+]]></content>
+    <tabTrigger>BNJS.device.os</tabTrigger>
+    <scope>source.js</scope>
+    <description>设备系统版本</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.removeBtnByTag(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.title.removeBtnByTag</tabTrigger>
+    <scope>source.js</scope>
+    <description>删除右上角对应 tag 值按钮</description>
+</snippet>

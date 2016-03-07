@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.addShopCartButton(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.title.addShopCartButton</tabTrigger>
+    <scope>source.js</scope>
+    <description>页面顶部右侧添加购物车按钮</description>
+</snippet>

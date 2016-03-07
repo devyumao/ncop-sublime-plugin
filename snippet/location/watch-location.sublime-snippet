@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+BNJS.location.watchLocation({
+    onLocationChanged: function () {
+        ${1:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.location.watchLocation</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取位置信息成功时调用的回调函数</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+BNJS.http.getCatgData({
+    onSuccess: function (res) {
+        ${1:}
+    },
+    onFail: function (res) {
+        ${2:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.http.getCatgData</tabTrigger>
+    <scope>source.js</scope>
+    <description>从 native 本地获取筛选项数据</description>
+</snippet>

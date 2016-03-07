@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.sidList	
+]]></content>
+    <tabTrigger>BNJS.env.sidList</tabTrigger>
+    <scope>source.js</scope>
+    <description>小流量 ID 列表</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.account.uid
+]]></content>
+    <tabTrigger>BNJS.account.uid</tabTrigger>
+    <scope>source.js</scope>
+    <description>用户 UID</description>
+</snippet>

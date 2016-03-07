@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.setPageId(${1:pageId})
+]]></content>
+    <tabTrigger>BNJS.page.setPageId</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置页面 id</description>
+</snippet>

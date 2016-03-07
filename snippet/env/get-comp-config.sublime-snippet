@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.getCompConfig(function (data) {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.env.getCompConfig</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取组件包配置信息</description>
+</snippet>

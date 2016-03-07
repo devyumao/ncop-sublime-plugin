@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.nativeInterfere(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.nativeInterfere</tabTrigger>
+    <scope>source.js</scope>
+    <description>启用或禁用端上的下拉刷新</description>
+</snippet>

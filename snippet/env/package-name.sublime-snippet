@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.packageName	
+]]></content>
+    <tabTrigger>BNJS.env.packageName</tabTrigger>
+    <scope>source.js</scope>
+    <description>SDK 使用方标识，APP 包名，组件方用于区分渠道</description>
+</snippet>

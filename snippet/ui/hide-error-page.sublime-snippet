@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.hideErrorPage(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.hideErrorPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>关闭错误页面</description>
+</snippet>

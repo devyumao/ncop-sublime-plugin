@@ -1,0 +1,11 @@
+[
+    {
+        "keys": ["command+alt+s"], "command": "ncop_selection_doc"
+    },
+    {
+        "keys": ["command+alt+b"], "command": "ncop_preview_page_by_browser"
+    },
+    {
+        "keys": ["command+alt+r"], "command": "ncop_preview_page_by_qrcode"
+    }
+]

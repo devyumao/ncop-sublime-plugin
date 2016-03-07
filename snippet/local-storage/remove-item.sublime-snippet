@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.localStorage.removeItem(${1:key});
+]]></content>
+    <tabTrigger>BNJS.localStorage.removeItem</tabTrigger>
+    <scope>source.js</scope>
+    <description>移除已存储数据</description>
+</snippet>

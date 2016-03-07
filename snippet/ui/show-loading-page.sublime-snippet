@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.showLoadingPage(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.showLoadingPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>显示加载中页面</description>
+</snippet>

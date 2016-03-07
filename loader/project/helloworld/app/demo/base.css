@@ -1,0 +1,104 @@
+.fr {
+  float: right;
+}
+.fl {
+  float: left;
+}
+.color-pink {
+  color: #ff4683;
+}
+.bg-pink {
+  background-color: #ff4683;
+}
+/* page title style */
+h2 {
+  width: 90%;
+  height: 40px;
+  line-height: 40px;
+  margin: 0 auto;
+  font-size: 18px;
+  text-align: left;
+}
+h2.center {
+  text-align: center;
+}
+/* module title style */
+h3 {
+  width: 90%;
+  height: 30px;
+  line-height: 30px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  text-align: left;
+}
+/* list page */
+.bnjs-list {
+  width: 90%;
+  height: auto;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.bnjs-list li {
+  height: 30px;
+  line-height: 30px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.bnjs-list li button {
+  width: 100%;
+  height: 100%;
+  background: none;
+  text-align: center;
+  border-sizing: border-box;
+  border: 1px solid #ff4683;
+  color: #ff4683;
+}
+.bnjs-list li button:active {
+  color: #FFF;
+  background: #ff4683;
+}
+.bnjs-list li input {
+  width: 99%;
+  height: 100%;
+  text-indent: 10px;
+  background: none;
+  text-align: left;
+  border-sizing: border-box;
+  border: 1px solid #666666;
+  color: #666666;
+}
+.bnjs-info-list {
+  width: 90%;
+  height: auto;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.bnjs-info-list li {
+  line-height: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  border-sizing: border-box;
+  color: #666666;
+  margin: 5px 0;
+}
+.bnjs-info-list li span {
+  display: inline-block;
+  white-space: normal;
+  word-break: break-all;
+  font-weight: bold;
+  padding-left: 5px;
+  color: #333;
+}
+.img-wrap {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+.img-wrap img {
+  width: 100%;
+  height: auto;
+}

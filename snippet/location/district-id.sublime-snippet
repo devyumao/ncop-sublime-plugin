@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.location.districtID
+]]></content>
+    <tabTrigger>BNJS.location.districtID</tabTrigger>
+    <scope>source.js</scope>
+    <description>定位城市区县 ID</description>
+</snippet>

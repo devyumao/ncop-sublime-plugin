@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.device.getTelBook(${1:});
+]]></content>
+    <tabTrigger>BNJS.device.getTelBook</tabTrigger>
+    <scope>source.js</scope>
+    <description>调起通讯录</description>
+</snippet>

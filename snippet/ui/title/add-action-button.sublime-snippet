@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.title.addActionButton(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.title.addActionButton</tabTrigger>
+    <scope>source.js</scope>
+    <description>页面顶部右侧添加定制按钮</description>
+</snippet>

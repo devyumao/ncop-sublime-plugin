@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.location.selectShortCityName
+]]></content>
+    <tabTrigger>BNJS.location.selectShortCityName</tabTrigger>
+    <scope>source.js</scope>
+    <description>当前选中城市缩写</description>
+</snippet>

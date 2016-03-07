@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.reShow(function () {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.page.reShow</tabTrigger>
+    <scope>source.js</scope>
+    <description>当页面重新被展示时，会触发callback回调函数</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.orderConfirm({
+    onSuccess: function () {
+        ${1:}
+    },
+    onFail: function () {
+        ${2:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.page.orderConfirm</tabTrigger>
+    <scope>source.js</scope>
+    <description>打开订单确认页面</description>
+</snippet>

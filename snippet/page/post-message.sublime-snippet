@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.page.postMessage(${1:});
+]]></content>
+    <tabTrigger>BNJS.page.postMessage</tabTrigger>
+    <scope>source.js</scope>
+    <description>相邻页面通信-发送消息事件</description>
+</snippet>

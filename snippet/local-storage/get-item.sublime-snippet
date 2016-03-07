@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.localStorage.getItem(${1:key});
+]]></content>
+    <tabTrigger>BNJS.localStorage.getItem</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取已存储数据</description>
+</snippet>

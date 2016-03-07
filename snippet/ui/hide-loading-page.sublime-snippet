@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.hideLoadingPage(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.hideLoadingPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>关闭加载中页面</description>
+</snippet>

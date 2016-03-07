@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.account.bduss
+]]></content>
+    <tabTrigger>BNJS.account.bduss</tabTrigger>
+    <scope>source.js</scope>
+    <description>用户百度账号标识</description>
+</snippet>

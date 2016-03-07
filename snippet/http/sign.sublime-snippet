@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+BNJS.http.sign({
+    source: ${1:source},
+    customerId: ${2:customerId},
+    callback: function (res) {
+        ${3:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.http.sign</tabTrigger>
+    <scope>source.js</scope>
+    <description>加密计算请求参数</description>
+</snippet>

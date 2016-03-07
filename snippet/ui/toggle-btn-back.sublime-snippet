@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BNJS.ui.toggleBtnBack(${1:});
+]]></content>
+    <tabTrigger>BNJS.ui.toggleBtnBack</tabTrigger>
+    <scope>source.js</scope>
+    <description>是否显示返回按钮</description>
+</snippet>

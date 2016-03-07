@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+BNJS.account.login({
+    onSuccess: function () {
+        ${1:}
+    },
+    onFail: function (res) {
+        ${2:}
+    }
+});
+]]></content>
+    <tabTrigger>BNJS.account.login</tabTrigger>
+    <scope>source.js</scope>
+    <description>打开登陆页面</description>
+</snippet>

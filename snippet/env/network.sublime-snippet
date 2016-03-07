@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+BNJS.env.network(function (data) {
+    ${1:}
+});
+]]></content>
+    <tabTrigger>BNJS.env.network</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取网络类型</description>
+</snippet>
